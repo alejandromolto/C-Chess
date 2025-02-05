@@ -1061,7 +1061,7 @@ char piece = 'Q';
             *change = true;
             do{
                 printf("%s", (language == 's') ? "\n¿Que quieres cambiar por tu peón? Reina (Q), Caballo (N), Torre(R), Alfil (B): " : "\nWhat do you want to trade your pawn for? Queen (Q), Knight (N), Rook(R), Bishop (B): ");
-                scanf(" %d", &piece);
+                scanf(" %c", &piece);
                 printf("\n");
 
             if(piece != 'Q' && piece != 'R' && piece != 'N' && piece != 'B' ){
@@ -1093,7 +1093,7 @@ char piece = 'Q';
             *change = true;
             do{
             printf("%s", (language == 's') ? "\nQue quieres cambiar por tu peón: Reina (Q), Caballo (N), Torre(R), Alfil (B)\n" : "\nWhat do you want to trade your pawn for: Queen (Q), Knight (N), Rook(R), Bishop (B)\n");
-            scanf("%d", &piece);
+            scanf("%c", &piece);
             printf("\n");
 
             if(piece != 'Q' && piece != 'R' && piece != 'N' && piece != 'B' ){
