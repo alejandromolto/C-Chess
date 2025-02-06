@@ -192,14 +192,14 @@ printf("\n\n\n\n\n\n\n"); //This has the objective of separating clearly the two
 
 
 if(*language == 'e'){ // menu in english
-    printf("**WELCOME TO CHESS-E\xC2\xA9 **\n"
+    printf("**WELCOME TO C-CHESS**\n"
        "Work done by alejandromolto.\n\n\n"
        "OPTIONS: \n\n"
        "(1) Play chess. \n"
        "(2) Settings \n"
        "(3) Exit \n\n\n");
 }else if(*language == 's'){ // menu in spanish
-    printf("**BIENVENIDO A CHESS-E\xC2\xA9 **\n"
+    printf("**BIENVENIDO A C-CHESS**\n"
        "Trabajo hecho por alejandromolto.\n\n\n"
        "OPCIONES: \n\n"
        "(1) Jugar al ajedrez. \n"
