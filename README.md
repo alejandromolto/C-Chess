@@ -1,6 +1,18 @@
-# Turn-Based Chess
+# Turn Based Chess
+
+This repository contains a simple chess program written in C. The program is a command-line application that allows two players to play a game of chess against each other.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+<br>
 
 ## Installation
+There are two primary methods for downloading and executing the program, both of which are outlined below:
 
 ### 1. **Downloading the Precompiled Version**
 For a quicker setup, the precompiled version of the game is available for downloading, saved as `TurnBasedChessCompiled`. After downloading, it can simply be runned with the command:
@@ -18,6 +30,14 @@ The raw code can be downloaded and compiled following the next steps:
    The source code can be compiled by using any C compiler (e.g., GCC), by using the command:
    ```bash
    gcc -o TurnBasedChess TurnBasedChess.c
+
+3. **Run the code**:
+   Having the code already downloaded and compiled, it can simply be runned with the command:
+   ```bash
+   ./TurnBasedChessCompiled
+   
+<br>
+<br>
 
 ## Usage
 
@@ -49,3 +69,10 @@ After the input has been completed (pressing the Enter key), the move should be 
 
 ![image4](https://github.com/user-attachments/assets/2d159cc8-19e2-4250-89ea-74836bc52da4)
 
+<br>
+
+## Contributing
+Feel free to contribute by submitting issues or pull requests. Future improvements are welcome!
+
+## License
+This project is open-source and licensed under the MIT License.
