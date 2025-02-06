@@ -24,13 +24,13 @@ The raw code can be downloaded and compiled following the next steps:
 ### Main menu.
 The game has a main menu, with two submenus accessible through navigation from the main menu.
 
-![imagen](https://github.com/user-attachments/assets/3e767d9b-5cf6-42bf-9217-30093bb7b439)
+![Image1](https://github.com/user-attachments/assets/903a6a4c-083c-4654-99f7-6abd0007762f)
 
 
 ### Chess.
 When you click the option "Play Chess" in the main menu, some display like this should appear:
 
-![imagen](https://github.com/user-attachments/assets/cd47fd94-595f-48fb-bbee-933934a61c6e)
+![Image2](https://github.com/user-attachments/assets/c765901c-ceb0-42d7-b5ff-54b9f4ea94bc)
 
 Here the user (black/white) needs to specify the piece that they want to be moved in the next format with the inputs separated with spaces:
 1. Piece (P/Q/K...) 
@@ -39,7 +39,7 @@ Here the user (black/white) needs to specify the piece that they want to be move
 
 After the input has been completed (pressing the Enter key), another message should appear:
 
-![imagen](https://github.com/user-attachments/assets/5479b0d3-799d-4a0b-8114-9615bb7f1002)
+![Image3](https://github.com/user-attachments/assets/3ab69e7c-8d8f-4d1d-906b-1f35bb75809a)
 
 Here the user (black/white) needs to specify where they want to move the piece indicated in chess notation again separated by spaces:
 1. Letter representative of the column (a, b, c...)
@@ -47,5 +47,5 @@ Here the user (black/white) needs to specify where they want to move the piece i
 
 After the input has been completed (pressing the Enter key), the move should be finally performed and the match should begin.
 
-![imagen](https://github.com/user-attachments/assets/d042c1cd-30ac-4673-ac01-29dbcdeafae9)
+![image4](https://github.com/user-attachments/assets/2d159cc8-19e2-4250-89ea-74836bc52da4)
 
