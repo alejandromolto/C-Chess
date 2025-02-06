@@ -44,7 +44,8 @@ The raw code can be downloaded and compiled following the next steps:
 ### Main menu.
 The game has a main menu, with two submenus accessible through navigation from the main menu.
 
-![Image1](https://github.com/user-attachments/assets/903a6a4c-083c-4654-99f7-6abd0007762f)
+![imagen](https://github.com/user-attachments/assets/d144a41c-748d-43d0-b9eb-90374c20d982)
+
 
 
 ### Chess.
