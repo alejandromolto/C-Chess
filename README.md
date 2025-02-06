@@ -17,7 +17,7 @@ The raw code can be downloaded and compiled following the next steps:
 2. **Compile the code**:  
    The source code can be compiled by using any C compiler (e.g., GCC), by using the command:
    ```bash
-   gcc -o TurnBasedChess TurnBasedChess.c```
+   gcc -o TurnBasedChess TurnBasedChess.c
 
 ## Usage
 
