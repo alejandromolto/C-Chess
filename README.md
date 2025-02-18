@@ -49,7 +49,7 @@ The game has a main menu, with two submenus accessible through navigation from t
 
 
 ### Chess.
-When you click the option "Play Chess" in the main menu, some display like this should appear:
+When you choose the option "Play Chess" in the main menu, some display like this should appear:
 
 ![Image2](https://github.com/user-attachments/assets/c765901c-ceb0-42d7-b5ff-54b9f4ea94bc)
 
