@@ -154,7 +154,7 @@ int boardDuplicate[8][8];
         isTheKingChecked(boardDuplicate, movementCount, duplicateProhibitedSquares, dnsquares, &futurecheck);
 
         if(futurecheck == true){
-            printf("You cant leave your king in check!");
+            printf("%s", (language == 's') ? "\nNo puedes dejar a tu rey en jaque.\n" : "\nYou can't leave your king in check.\n");
         }
 
     }
