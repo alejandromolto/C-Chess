@@ -15,26 +15,26 @@ This repository contains a simple chess program written in C. The program is a c
 There are two primary methods for downloading and executing the program, both of which are outlined below:
 
 ### 1. **Downloading the Precompiled Version**
-For a quicker setup, the precompiled version of the game is available for downloading, saved as `TurnBasedChessCompiled`. After downloading, it can simply be runned with the command:
+For a quicker setup, the precompiled version of the game is available for downloading, saved as `CChessCompiled`. After downloading, it can simply be runned with the command:
    ```bash
-   ./TurnBasedChessCompiled
+   ./CChessCompiled
   ```
 
 ### 2. **Compiling from Source**
 The raw code can be downloaded and compiled following the next steps:
 
 1. **Download the raw source code**:  
-   The source code is available in the project files, saved as `TurnBasedChess.c`.
+   The source code is available in the project files, saved as `CChess.c`.
 
 2. **Compile the code**:  
    The source code can be compiled by using any C compiler (e.g., GCC), by using the command:
    ```bash
-   gcc -o TurnBasedChess TurnBasedChess.c
+   gcc -o CChessCompiled CChess.c
 
 3. **Run the code**:
    Having the code already downloaded and compiled, it can simply be runned with the command:
    ```bash
-   ./TurnBasedChessCompiled
+   ./CChessCompiled
    
 <br>
 <br>
